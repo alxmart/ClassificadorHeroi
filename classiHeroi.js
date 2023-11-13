@@ -1,6 +1,6 @@
 
 let nameHero = "Captain Juca Bala"
-let xpHero = 13700
+let xpHero = 6000
 let levelHero
 
 if(xpHero < 1000) {
